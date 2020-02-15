@@ -1,9 +1,9 @@
 **What will students get out of this workshop?**
 
-Through these 4 Embedded Systems hands-on workshop, we plan to go through
+Through these 4 Embedded Systems hands-on workshop, we plan to go through 
 
-   the basics of Digital Logic and a hands on simulated Circuit Design task.
-   the basics of MicroController and a hands on simulated Arduino, Mirobit based project and Microbit based game.
+   1) the basics of Digital Logic and a hands on simulated Circuit Design task.
+   2) the basics of MicroController and a hands on simulated Arduino, Mirobit based project and Microbit based game.
    
 Attending these workshops will definitely give participants a head start on these topics. 
 
@@ -16,7 +16,7 @@ do their own projects with Embedded Systems.
 
 We will deduct EventBrite charges (if booked through EventBrite) and will credit you the rest, if cancelled 1 day before the first workshop (Mar 14).
 
-**Can the students bring food?**
+**Can students bring food?**
 
 These workshops are conducted in Surrey Library and hence no food is allowed inside the meeting room.
 
