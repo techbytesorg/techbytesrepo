@@ -33,7 +33,7 @@ who try a hands on project on the discussed topics in workshops and send it to u
 **Hmmm not clear, can you give me some more details?**
 
 Sure, each week we encourage students to try their own ideas on the discussed topics in workshop and send us back a video/link of their project.
-For each video/link sent us to students will get 50% (7.50$ worth of credit) credit for attending our future workshops. So if a student attends 4 series of
+For each video/link sent to us, students will get 50% (7.50$ worth of credit) credit for attending our future workshops. So if a student attends 4 series of
 workshops and sent us back 4 videos/links which they had created at home, students can get upto 30$ worth of credit for our future workshops.
 
 
