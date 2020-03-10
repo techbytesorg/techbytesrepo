@@ -25,6 +25,18 @@ These workshops are conducted in Surrey Library and hence no food is allowed ins
 Parents please go through the Terms and Conditions for attending our workshops at https://github.com/techbytesorg/techbytesrepo/blob/master/TermsandConditions.md 
 Please check our Privacy Policy and Photography policy at https://github.com/techbytesorg/techbytesrepo/blob/master/PrivacyPolicy.md
 
+**Give me more details about your Payback program?**
+
+Sure. To encourage students to practice what they learn in our workshops - we will give future workshop credits upto 50% of the workshop fee for those students
+who try a hands on project on the discussed topics in workshops and send it to us. 
+
+**Hmmm not clear, can you give me some more details?**
+
+Sure, each week we encourage students to try their own ideas on the discussed topics in workshop and send us back a video/link of their project.
+For each video/link sent us to students will get 50% (7.50$ worth of credit) credit for attending our future workshops. So if a student attends 4 series of
+workshops and sent us back 4 videos/links which they had created at home, students can get upto 30$ worth of credit for our future workshops.
+
+
 **What if, if I have other questions?**
 
 Please shoot an email to contact@techbytesfoundation.org 
