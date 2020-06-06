@@ -36,4 +36,4 @@ You can choose to sponsor atleast 1 series of Code Summer (we currently plan 10 
 
 For details on how to become the Gold Sponsor please contact us innovate@techbytesfoundation.org
 
-Thanks again and if you have any questions please reach to us.
+Thanks again and if you have any questions please reach out to us at innovate@techbytesfoundation.org
