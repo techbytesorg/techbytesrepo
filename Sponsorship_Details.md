@@ -1,11 +1,11 @@
-*SPONSORSHIP IS OPEN NOW:*
+**SPONSORSHIP IS OPEN NOW:**
 
-Code Summer tries to empower youths with Digital Literacy skills by conducting hands-on workshops in Embedded Systems, Cloud Computing, Internet of Things, Artificial Inteligence, Deep Learning and Visual Story Telling.
-We also plan to conduct Blog & Vlog related competitions for this summer.
+**Code Summer** tries to empower youths with **Digital Literacy skills** by conducting hands-on workshops in **Embedded Systems, Cloud Computing, Internet of Things, Artificial Inteligence, Deep Learning and Visual Story Telling.**
+We also plan to conduct **Blog & Vlog** related competitions for this summer.
 
 To successfully conduct these events, we would need the community to help us. We are looking for sponsors in the following categories:
 
-Main Event Sponsor:
+**Main Event Sponsor:**
 
 You can choose to sponsor the entire event under your name, by becoming the Main Event Sponsor. In return for your generous sponsorship, you will get the following.
 
@@ -18,7 +18,7 @@ You can choose to sponsor the entire event under your name, by becoming the Main
 
 For details on how to become the Main Event Sponsor please contact us innovate@techbytesfoundation.org
 
-Platinum Sponsor: $949
+**Platinum Sponsor: $949**
 
 You can choose to sponsor atleast 3 series of Code Summer (we currently plan 8 continuos weeks starting from July 6 2020 - Aug 28 2020). In return for your generous sponsorship, you will get the following.
 
@@ -27,7 +27,7 @@ You can choose to sponsor atleast 3 series of Code Summer (we currently plan 8 c
 
 For details on how to become the Platinum Sponsor please contact us innovate@techbytesfoundation.org
 
-Gold Sponsor: $599
+**Gold Sponsor: $599**
 
 You can choose to sponsor atleast 1 series of Code Summer (we currently plan 10 continuos weeks starting from Apr 3 2020). In return for your generous sponsorship, you will get the following.
 
