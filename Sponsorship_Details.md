@@ -1,4 +1,4 @@
-##**SPONSORSHIP IS OPEN NOW:**##
+**SPONSORSHIP IS OPEN NOW:**
 
 **Code Summer** tries to empower youths with **Digital Literacy skills** by conducting hands-on workshops in **Embedded Systems, Cloud Computing, Internet of Things, Artificial Inteligence, Deep Learning and Visual Story Telling.**
 We also plan to conduct **Blog & Vlog** related competitions for this summer.
